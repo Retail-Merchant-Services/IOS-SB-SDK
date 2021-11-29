@@ -1,6 +1,6 @@
 # RMSCocoapodsLibrary
 
-[![CI Status](https://img.shields.io/travis/sayeed545/RMSCocoapodsLibrary.svg?style=flat)](https://travis-ci.org/sayeed545/RMSCocoapodsLibrary)
+[![CI Status](https://img.shields.io/travis/RMSCocoapodsLibrary.svg?style=flat)](https://travis-ci.org/RMSCocoapodsLibrary)
 [![Version](https://img.shields.io/cocoapods/v/RMSCocoapodsLibrary.svg?style=flat)](https://cocoapods.org/pods/RMSCocoapodsLibrary)
 [![License](https://img.shields.io/cocoapods/l/RMSCocoapodsLibrary.svg?style=flat)](https://cocoapods.org/pods/RMSCocoapodsLibrary)
 [![Platform](https://img.shields.io/cocoapods/p/RMSCocoapodsLibrary.svg?style=flat)](https://cocoapods.org/pods/RMSCocoapodsLibrary)
@@ -22,7 +22,7 @@ pod 'RMSCocoapodsLibrary'
 
 ## Author
 
-sayeed545, shaik.sayeed16@gmail.com
+stevek545, steve@kachyng.com
 
 ## License
 

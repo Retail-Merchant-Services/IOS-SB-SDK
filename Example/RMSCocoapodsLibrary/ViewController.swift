@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  RMSCocoapodsLibrary
 //
-//  Created by sayeed545 on 11/10/2021.
-//  Copyright (c) 2021 sayeed545. All rights reserved.
+//  Created by stevek545 on 11/10/2021.
+//  Copyright (c) 2021 stevek545. All rights reserved.
 //
 
 import UIKit
