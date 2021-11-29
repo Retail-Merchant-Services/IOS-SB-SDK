@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RMSCocoapodsLibrary'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'This is a simple cocopods RMS Authentication.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,12 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/sayeed545/RMSCocoapodsLibrary'
+  # s.homepage         = 'https://github.com/sayeed545/RMSCocoapodsLibrary'
+  s.homepage         = 'https://github.com/Retail-Merchant-Services/IOS-SB-SDK/tree/main/RMSCocoapodsLibrary'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'sayeed545' => 'shaik.sayeed16@gmail.com' }
-  s.source           = { :git => 'https://github.com/sayeed545/RMSCocoapodsLibrary.git', :tag => s.version.to_s }
+  s.author           = { 'stevek545' => 'steve@kachyng.com' }
+  s.source           = { :git => 'https://github.com/Retail-Merchant-Services/IOS-SB-SDK/tree/main/RMSCocoapodsLibrary.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
